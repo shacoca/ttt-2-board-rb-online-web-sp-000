@@ -1,1 +1,2 @@
-# Define the variable board below.
+# board = new.Array
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "] # Define the variable board below.
